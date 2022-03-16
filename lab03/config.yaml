@@ -1,0 +1,13 @@
+name: Configmodel
+
+HSVLevel: 
+  H_level: 64
+  S_level: 16
+  V_level: 16
+Shiftbin:
+   shiftH: 6
+   shiftS: 4
+   shiftV: 4
+
+
+

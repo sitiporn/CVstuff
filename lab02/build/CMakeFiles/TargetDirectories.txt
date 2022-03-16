@@ -1,0 +1,3 @@
+/home/sitindustry/Documents/CVLab/lab02/build/CMakeFiles/rebuild_cache.dir
+/home/sitindustry/Documents/CVLab/lab02/build/CMakeFiles/edit_cache.dir
+/home/sitindustry/Documents/CVLab/lab02/build/CMakeFiles/lab02.dir

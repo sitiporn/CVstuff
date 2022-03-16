@@ -1,0 +1,7 @@
+/home/sitindustry/Documents/CVLab/lab03/build/CMakeFiles/rebuild_cache.dir
+/home/sitindustry/Documents/CVLab/lab03/build/CMakeFiles/edit_cache.dir
+/home/sitindustry/Documents/CVLab/lab03/build/CMakeFiles/playback5.dir
+/home/sitindustry/Documents/CVLab/lab03/build/CMakeFiles/playback4.dir
+/home/sitindustry/Documents/CVLab/lab03/build/CMakeFiles/playback3.dir
+/home/sitindustry/Documents/CVLab/lab03/build/CMakeFiles/playback.dir
+/home/sitindustry/Documents/CVLab/lab03/build/CMakeFiles/get-homography.dir

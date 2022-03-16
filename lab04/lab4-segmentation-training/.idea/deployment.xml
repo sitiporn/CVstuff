@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@sem-seg:2223" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="root@sem-seg:2222">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_817" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@sem-seg:2223">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_485" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
